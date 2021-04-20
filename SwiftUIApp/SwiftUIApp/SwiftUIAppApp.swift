@@ -1,6 +1,6 @@
 //
-//  SwiftUIApp.swift
-//  SwiftUI
+//  SwiftUIAppApp.swift
+//  SwiftUIApp
 //
 //  Created by Lisette Antigua on 4/20/21.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SwiftUIApp: App {
+struct SwiftUIAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
